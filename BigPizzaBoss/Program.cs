@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BigPizzaBoss.Pizzeria;
 
 namespace BigPizzaBoss
 {
@@ -10,6 +11,10 @@ namespace BigPizzaBoss
     {
         static void Main(string[] args)
         {
+            PizzaDeveloper pizzaDeveloper = new PizzaDeveloper();
+            pizzaDeveloper.OrderPizza();
+
+            Console.ReadKey();
         }
     }
 }
