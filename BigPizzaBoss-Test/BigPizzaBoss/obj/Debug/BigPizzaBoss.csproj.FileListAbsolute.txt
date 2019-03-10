@@ -1,0 +1,6 @@
+F:\BigPizzaBoss-Test\BigPizzaBoss-Test\BigPizzaBoss\bin\Debug\BigPizzaBoss.exe.config
+F:\BigPizzaBoss-Test\BigPizzaBoss-Test\BigPizzaBoss\bin\Debug\BigPizzaBoss.exe
+F:\BigPizzaBoss-Test\BigPizzaBoss-Test\BigPizzaBoss\bin\Debug\BigPizzaBoss.pdb
+F:\BigPizzaBoss-Test\BigPizzaBoss-Test\BigPizzaBoss\obj\Debug\BigPizzaBoss.csprojResolveAssemblyReference.cache
+F:\BigPizzaBoss-Test\BigPizzaBoss-Test\BigPizzaBoss\obj\Debug\BigPizzaBoss.exe
+F:\BigPizzaBoss-Test\BigPizzaBoss-Test\BigPizzaBoss\obj\Debug\BigPizzaBoss.pdb
